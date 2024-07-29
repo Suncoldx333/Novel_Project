@@ -13,7 +13,7 @@ from Bot_Data_0708 import ImageUrlObject
 
 import re
 
-discord_token2 = "MTI1ODMxNDY4OTQ0OTAzMzcyOA.GOaidz.nmPbqQKgJzyFYdzubwvxKPMFFroZRN3iD1rH9M"
+discord_token2 = "none"
 
 sessionidCallback = None
 afterCallback = None
